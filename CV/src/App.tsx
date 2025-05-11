@@ -1,10 +1,8 @@
 import { useState } from 'react'
 import './App.css'
-import { Button } from "@/components/ui/button"
 import Header from "@/components/Header"
 import Sidebar from "@/components/Sidebar"
 import ResumeBody from "@/components/ResumeBody"
-
 
 
 function App() {
